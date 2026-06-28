@@ -83,6 +83,13 @@ I architect lakehouses, build AI-powered migration tools, and contribute to open
 
 ---
 
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 <details>
 <summary><b>More About My Work</b></summary>
 
